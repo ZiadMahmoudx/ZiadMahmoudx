@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey,There! ♥ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">Ziad Mahmoud </h3>
-<h3 align="center">React & Full-stack JavaScript Developer</h3>
+<h3 align="center">React.js,Next.js & Full-stack JavaScript Developer</h3>
 
 <hr/>
 
